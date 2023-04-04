@@ -38,7 +38,7 @@ To get started, simply clone the repository and follow the instructions in the s
 
 ⚠️ **Note:** Before you are able to run the game, ensure you have downloaded the assets folder and that it is located in the same folder as Sudoku.exe
 
-1. To run the game navigate to the file Sudoku.exe and run the executable
+1. To run the game navigate to the file _Sudoku.exe_ located in the release folder and run the executable
 
 ## Technologies
 
