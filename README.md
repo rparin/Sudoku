@@ -20,7 +20,7 @@ A Sudoku game that features a sleek and user-friendly graphical interface that a
 
 <div align="center">
 
-<img height=350 alt="demo of Sudoku Game" src="https://raw.githubusercontent.com/rparin/Sudoku/main/preview/Demo.gif">
+<img max-height=350 alt="demo of Sudoku Game" src="https://raw.githubusercontent.com/rparin/Sudoku/main/preview/Demo.gif">
 
 </div>
 
